@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a B.Tech CSE (AIML) student passionate about 
 - Machine Learning
 - Deep Learning
 
- 
+ ##
 - 🔭 I’m currently working on *Machine Learning*  
 - 🌱 I’m currently learning *Deep Learning*  
 - 👯 I’m looking to collaborate on *Open Source AI Projects*  
