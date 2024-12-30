@@ -1,3 +1,5 @@
+![image](blob:https://new.express.adobe.com/022c50e1-71d4-4c85-9848-3b65942624d2)
+
 # Hi, I'm Diya Chanda 👋
 Welcome to my GitHub profile! I am a B.Tech CSE (AIML) student passionate about AI, Machine Learning, and Deep Learning.
 
@@ -9,7 +11,6 @@ Welcome to my GitHub profile! I am a B.Tech CSE (AIML) student passionate about 
 - Python
 - Machine Learning
 - Deep Learning
-- Git & GitHub
 
  
 - 🔭 I’m currently working on *Machine Learning*  
