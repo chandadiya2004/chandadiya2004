@@ -77,7 +77,7 @@ Here are some live demos of my projects that you can explore:
   <a href="mailto:chandasujata01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diya-chanda-674a89342"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/chandadiya2004/chandadiya2004.git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/0987misti/profilecard/?igsh=MWVjOHdkN2VwMGtwNw=="><img src="https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/0987misti/profilecard/?igsh=MWVjOHdkN2VwMGtwNw=="><img src="https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=pink" /></a>
 </p>
 
 ---
