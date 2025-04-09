@@ -51,6 +51,7 @@ I'm **Diya Chanda**, an aspiring **AI/ML Engineer**, passionate about crafting i
 | **Movie Recommendation System**      | Streamlit, Python, Scikit-learn, Cosine-similarity | [GitHub Repo](https://github.com/chandadiya2004/Movie-Recommendation-System.git) |
 | **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/chandadiya2004/Attendance-Tracker.git) |
 | **MNIST Digit Classification** | Python, Matplotlib, Seaborn, OpenCV, TensorFlow | [GitHub Repo](https://github.com/chandadiya2004/MNIST-Digit-classification-using-Deep-Learning.git) |
+| **Gold Price Prediction** | Python, Sklearn, Streamlit | [GitHub Repo](https://github.com/chandadiya2004/gold-price-prediction.git) |
 
 ---
 
@@ -61,6 +62,7 @@ Here are some live demos of my projects that you can explore:
 - **Car Price Prediction** – [Live Demo](https://car-price-prediction-9md2.onrender.com/)
 - **Diabetes Prediction** – [Live Demo](https://diabetes-prediction-diya.onrender.com/)
 - **Movie Recommendation System** - [Live Demo](https://movie-recommendation-system-wc32.onrender.com/)
+- **Gold Price Prediction** - [Live Demo](https://gold-price-prediction-diya.streamlit.app/)
   
 ---
 
