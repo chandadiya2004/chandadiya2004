@@ -50,6 +50,8 @@ I'm **Diya Chanda**, an aspiring **AI/ML Engineer**, passionate about crafting i
 | **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/chandadiya2004/Attendance-Tracker.git) |
 | **MNIST Digit Classification** | Python, Matplotlib, Seaborn, OpenCV, TensorFlow | [GitHub Repo](https://github.com/chandadiya2004/MNIST-Digit-classification-using-Deep-Learning.git) |
 | **Gold Price Prediction** | Python, Sklearn, Streamlit | [GitHub Repo](https://github.com/chandadiya2004/gold-price-prediction.git) |
+| **caesar-cipher-app ** | Python, pip, Streamlit | [GitHub Repo](https://github.com/chandadiya2004/caesar-cipher-app) |
+
 
 ---
 
@@ -61,7 +63,8 @@ Here are some live demos of my projects that you can explore:
 - **Diabetes Prediction** – [Live Demo](https://diabetes-prediction-diya.onrender.com/)
 - **Movie Recommendation System** - [Live Demo](https://movie-recommendation-system-wc32.onrender.com/)
 - **Gold Price Prediction** - [Live Demo](https://gold-price-prediction-diya.streamlit.app/)
-  
+- **caesar-cipher-app ** - [Live Demo](https://caesar-cipher-app-diya.streamlit.app/)
+
 ---
 
 ## 🌱 What I'm Currently Learning  
