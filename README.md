@@ -1,5 +1,3 @@
-![image](https://pikaso.cdnpk.net/private/production/1308873250/render.jpeg?token=exp=1764892800~hmac=1f68f060a625a4839c1f6b413868614b864cff61cab214a5b29e6f9498255183)
-
 # Hi, I'm Diya Chanda 👋
 Welcome to my GitHub profile!
 
