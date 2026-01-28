@@ -71,6 +71,29 @@ Here are some live demos of my projects that you can explore:
 - 🚀 Cloud Deployment strategies (AWS, Render)  
 
 ---
+## 🎓 Research & Publications
+
+<div align="center">
+
+### 📄 Paper 1: FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning
+
+**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, Arpan Pramanik, Özgün Girgin, Enes Ladin Öncül  
+**DOI:** [10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
+
+*A multi-task deep learning framework for simultaneous fruit classification and quality assessment using multi-headed CNN. Achieves 98% fruit classification and 99% quality detection accuracy with Grad-CAM interpretability, deployed via Streamlit.*
+
+---
+
+### 📄 Paper 2: CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops
+
+**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, Arpan Pramanik, Diya Chanda  
+**DOI:** [10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
+
+*Lightweight multi-headed CNN for potato and tomato quality classification. Achieves 99.9% crop classification and 98.5% quality detection accuracy with Grad-CAM visualizations, deployed via Streamlit for real-time precision agriculture.*
+
+</div>
+
+---
 
 ## 🌍 Connect With Me  
 
