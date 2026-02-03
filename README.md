@@ -117,5 +117,4 @@ _"Machine learning is not magic; it's just math."_ 😎
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
 
-![Visitor Count](https://badges.pufler.dev/visits/chandadiya2004/chandadiya2004)
 
