@@ -74,28 +74,45 @@ Here are some live demos of my projects that you can explore:
 - 🚀 Cloud Deployment strategies (AWS, Render)  
 
 ---
-## 🎓 Research & Publications
+## 🎓 Research & Publications  
 
 <div align="center">
 
-### 📄 Paper 1: FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning
+### 📄 **FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning**  
 
-**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, Arpan Pramanik, Özgün Girgin, Enes Ladin Öncül  
-**DOI:** [10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
+**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, **Diya Chanda**, Arpan Pramanik, Özgün Girgin, Enes Ladin Öncül  
+🔗 **DOI:** https://doi.org/10.1109/ICRITO66076.2025.11241706  
 
-*A multi-task deep learning framework for simultaneous fruit classification and quality assessment using multi-headed CNN. Achieves 98% fruit classification and 99% quality detection accuracy with Grad-CAM interpretability, deployed via Streamlit.*
+🧠 Developed a **multi-task deep learning framework** for fruit classification and quality grading using a **multi-headed CNN architecture**.  
+📊 Achieved **98% classification accuracy** and **99% quality detection accuracy**.  
+🔍 Integrated **Grad-CAM** for explainable AI and model interpretability.  
+🚀 Deployed using **Streamlit** for real-time usability.
 
 ---
 
-### 📄 Paper 2: CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops
+### 📄 **CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops**  
 
-**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, Arpan Pramanik, Diya Chanda  
-**DOI:** [10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
+**Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, Arpan Pramanik, **Diya Chanda**  
+🔗 **DOI:** https://doi.org/10.1109/ICRITO66076.2025.11241535  
 
-*Lightweight multi-headed CNN for potato and tomato quality classification. Achieves 99.9% crop classification and 98.5% quality detection accuracy with Grad-CAM visualizations, deployed via Streamlit for real-time precision agriculture.*
+🌱 Designed a **lightweight deep learning model** for detecting quality in crops like **potato and tomato**.  
+📊 Achieved **99.9% crop classification accuracy** and **98.5% quality detection accuracy**.  
+🔍 Utilized **Grad-CAM visualizations** for transparency and trust in predictions.  
+⚡ Built for **real-time deployment** using Streamlit in precision agriculture applications.
+
+---
+
+### 📄 **An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops**  
+
+**Authors:** Shibdas Dutta, Barshan Adhikari, Arpan Pramanik, **Diya Chanda**  
+🔗 **DOI:** https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762  
+
+🧠 Proposed a **hybrid CNN-ViT architecture** for simultaneous crop classification and quality assessment.  
+⚡ Achieved **30%+ parameter reduction**, making the model efficient and lightweight.  
+📊 Reached **98.45% accuracy for potato** and **97.49% for tomato classification**, with **98.5% quality assessment accuracy**.  
+🔍 Focused on **explainable AI techniques** to improve transparency and trust in predictions.
 
 </div>
-
 ---
 
 ## 🌍 Connect With Me  
